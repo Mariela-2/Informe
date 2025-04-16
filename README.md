@@ -1,7 +1,7 @@
 # Requirements Elicitation & Analysis 
-## Competidores 
+## 2.1. Competidores 
 
-### Análisis Competitivo 
+### 2.1.1. Análisis Competitivo 
 
 <table style="undefined;table-layout: fixed; width: 903px">
 <colgroup>
@@ -123,7 +123,7 @@
 </tbody>
 </table>
 
-## Estrategias y tácticas frente a competidores
+## 2.1.2. Estrategias y tácticas frente a competidores
 
 En un mercado cada vez más dinámico y competitivo, donde surgen nuevas start-ups tecnológicas que buscan abrirse paso en el sector logístico y agrícola, es fundamental contar con una planificación estratégica bien definida. La diferenciación no solo es deseable, sino esencial para lograr el posicionamiento y reconocimiento de nuestra propuesta. Por ello, el equipo de AgroRoute ha establecido un conjunto de estrategias orientadas a fortalecer nuestra presencia en el mercado y destacar frente a nuestros competidores.
 
@@ -143,5 +143,19 @@ A fin de adaptarnos a distintos perfiles de usuarios, desde pequeños productore
 
 - #### Propuesta de valor centrada en la trazabilidad y confianza
 Nuestra solución no solo busca controlar el entorno físico del producto, sino también generar confianza en cada etapa del transporte. La posibilidad de contar con un historial detallado del recorrido, condiciones ambientales y tiempos estimados de llegada, permite a los productores demostrar el cumplimiento de estándares de calidad ante compradores y certificadoras, generando así un valor añadido al producto final.
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+### 2.2.2. Registro de entrevistas
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding.
+### 2.3.1. User Personas.
+### .3.2. User Task Matrix.
+### 2.3.3. User Journey Mapping.
+### 2.3.4. Empathy Mapping.
+### 2.3.5. As-is Scenario Mapping.
+### 2.4. Ubiquitous Language.
+
 
 
