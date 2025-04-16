@@ -151,7 +151,21 @@ Nuestra solución no solo busca controlar el entorno físico del producto, sino 
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-### 2.3.2. User Task Matrix.
+### 2.3.2. User Task Matrix
+
+**Cuadro Task Matrix de ambos usuarios**
+
+| **User Task**                                         | **Transportista** - Frecuencia | **Transportista** - Importancia | **Productor Orgánico** - Frecuencia | **Productor Orgánico** - Importancia |
+|-------------------------------------------------------|-------------------------------|----------------------------------|--------------------------------------|--------------------------------------|
+| Creación de cuenta                                    | A veces                       | Alta                             | A veces                              | Alta                                 |
+| Interfaz práctica y sencilla de usar                  | Siempre                       | Alta                             | Siempre                              | Alta                                 |
+| Registrar salida de envío                             | Siempre                       | Alta                             | Nunca                                | Media                                |
+| Visualizar el estado ambiental del envío              | Seguido                       | Alta                             | Seguido                              | Alta                                 |
+| Recibir alertas por condiciones no óptimas            | Siempre                       | Muy Alta                         | Seguido                              | Muy Alta                             |
+| Consultar ETA (tiempo estimado de llegada)            | Siempre                       | Alta                             | A veces                              | Media                                |
+| Descargar historial de condiciones del transporte     | A veces                       | Media                            | Seguido                              | Alta                                 |
+| Compatible con dispositivos móviles y GPS del camión  | Siempre                       | Alta                             | A veces                              | Media                                |
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
