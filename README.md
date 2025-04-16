@@ -1,3 +1,8 @@
+# Requirements Elicitation & Analysis 
+## Competidores 
+
+### Análisis Competitivo 
+
 <table style="undefined;table-layout: fixed; width: 903px">
 <colgroup>
 <col style="width: 72.2px">
@@ -117,4 +122,26 @@
   </tr>
 </tbody>
 </table>
+
+## Estrategias y tácticas frente a competidores
+
+En un mercado cada vez más dinámico y competitivo, donde surgen nuevas start-ups tecnológicas que buscan abrirse paso en el sector logístico y agrícola, es fundamental contar con una planificación estratégica bien definida. La diferenciación no solo es deseable, sino esencial para lograr el posicionamiento y reconocimiento de nuestra propuesta. Por ello, el equipo de AgroRoute ha establecido un conjunto de estrategias orientadas a fortalecer nuestra presencia en el mercado y destacar frente a nuestros competidores.
+
+### Estrategias elegidas por el equipo:
+
+- #### Enfoque especializado en productos orgánicos
+AgroRoute ha sido concebido desde sus inicios como una solución diseñada específicamente para el transporte de productos orgánicos. Esta especialización nos permite adaptar cada aspecto del sistema a las exigencias de este tipo de mercancía, garantizando condiciones óptimas durante todo el trayecto. Al enfocarnos en este nicho, marcamos una clara diferencia frente a plataformas genéricas de monitoreo logístico.
+
+- #### Fortalecimiento de relaciones estratégicas con cooperativas agrícolas
+Como parte de nuestra táctica de crecimiento, apostamos por establecer alianzas sólidas con cooperativas y asociaciones de productores orgánicos. Estas colaboraciones no solo nos permitirán validar nuestra propuesta en terreno real, sino también crear una red de usuarios fieles que aporten retroalimentación constante para la mejora del sistema.
+
+- #### Mejora continua de la experiencia tecnológica
+Uno de los pilares fundamentales de AgroRoute es la innovación tecnológica. Para asegurar nuestra competitividad, hemos proyectado una evolución continua del sistema, incorporando mejoras tanto en el software como en los sensores IoT utilizados. El objetivo es mantenernos a la vanguardia mediante funcionalidades como la estimación precisa del tiempo de llegada (ETA), alertas inteligentes y visualización en tiempo real desde cualquier dispositivo.
+
+- #### Escalabilidad y flexibilidad de uso
+A fin de adaptarnos a distintos perfiles de usuarios, desde pequeños productores hasta grandes operadores logísticos, AgroRoute ofrece un sistema escalable y flexible. Esto permitirá a los clientes comenzar con una versión básica y añadir nuevas funciones conforme crezcan sus necesidades, sin necesidad de cambiar de plataforma.
+
+- #### Propuesta de valor centrada en la trazabilidad y confianza
+Nuestra solución no solo busca controlar el entorno físico del producto, sino también generar confianza en cada etapa del transporte. La posibilidad de contar con un historial detallado del recorrido, condiciones ambientales y tiempos estimados de llegada, permite a los productores demostrar el cumplimiento de estándares de calidad ante compradores y certificadoras, generando así un valor añadido al producto final.
+
 
