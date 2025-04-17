@@ -154,7 +154,7 @@ Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana d
 - ¿Cuál es su edad?
 - ¿En qué ciudad o región trabaja actualmente?
 
-#### Segmento Objetivo: Productores Orgánicos
+#### Segmento Objetivo: Remitente
 - ¿Cuál es su ocupación actual y qué tipo de productos orgánicos cultiva o comercializa?
 - ¿Con qué frecuencia realiza envíos interprovinciales de sus productos? (escala del 0 al 10)
 - ¿Qué medio utiliza actualmente para realizar el seguimiento de estos envíos?
