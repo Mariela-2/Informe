@@ -145,7 +145,37 @@ A fin de adaptarnos a distintos perfiles de usuarios, desde pequeños productore
 Nuestra solución no solo busca controlar el entorno físico del producto, sino también generar confianza en cada etapa del transporte. La posibilidad de contar con un historial detallado del recorrido, condiciones ambientales y tiempos estimados de llegada, permite a los productores demostrar el cumplimiento de estándares de calidad ante compradores y certificadoras, generando así un valor añadido al producto final.
 
 ## 2.2. Entrevistas
+En este punto se realizaron entrevistas con usuarios potenciales para conocer su contexto, necesidades y expectativas en relación con el transporte de productos orgánicos y la tecnología IoT aplicada al control de calidad durante el traslado.
 ### 2.2.1. Diseño de entrevistas
+#### Introducción/Presentación
+Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) de la carrera de Ingeniería de Software. Junto con mi equipo estamos desarrollando AgroRoute, un sistema inteligente basado en IoT que permite supervisar, controlar y preservar la calidad de productos orgánicos durante su transporte interprovincial. Para ello, quisiéramos conocer su experiencia y situación actual relacionada con el transporte de productos orgánicos. Le agradeceríamos responder las siguientes preguntas.
+#### Preguntas Generales
+- ¿Cuál es su nombre completo?
+- ¿Cuál es su edad?
+- ¿En qué ciudad o región trabaja actualmente?
+
+#### Segmento Objetivo: Productores Orgánicos
+- ¿Cuál es su ocupación actual y qué tipo de productos orgánicos cultiva o comercializa?
+- ¿Con qué frecuencia realiza envíos interprovinciales de sus productos? (escala del 0 al 10)
+- ¿Qué medio utiliza actualmente para realizar el seguimiento de estos envíos?
+- ¿Considera que la información que recibe durante el transporte es suficiente? ¿Por qué?
+- ¿Ha tenido experiencias negativas debido a malas condiciones de transporte (temperatura, humedad, etc.)?
+- ¿Le interesaría contar con una plataforma que le permita ver en tiempo real la ubicación, temperatura y humedad de sus productos?
+- ¿Utilizaría un servicio como AgroRoute para mejorar el control de calidad en sus envíos? ¿Por qué?
+- ¿Qué funcionalidades cree que deberían estar presentes en esta plataforma para que sea útil y eficiente?
+
+#### Segmento Objetivo: Transportistas
+- ¿Actualmente trabaja transportando productos agrícolas u orgánicos? ¿Para qué empresa o de forma independiente?
+- ¿Con qué frecuencia realiza viajes interprovinciales de carga perecible?
+- ¿Cuenta con alguna herramienta que le permita monitorear las condiciones internas de su vehículo (temperatura, humedad, etc.)?
+- ¿Ha tenido dificultades con productos que llegaron en mal estado? ¿Cómo afecta eso su trabajo?
+- ¿Considera útil un sistema que le avise en tiempo real si hay algún cambio en las condiciones del ambiente dentro del camión?
+- ¿Estaría dispuesto a utilizar una aplicación móvil para recibir notificaciones y visualizar el estado del envío?
+- ¿Qué información le gustaría poder consultar desde una plataforma como AgroRoute?
+
+#### Finalización
+Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute.
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
