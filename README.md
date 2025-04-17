@@ -184,7 +184,7 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
 
 #### Segmento Objetivo: Remitentes 
 
-El diagrama de la user persona Ana Torres proporciona una visión completa y detallada de sus características, metas, motivaciones y desafíos. Esto permitirá una comprensión profunda de sus necesidades, ayudando a adaptar estrategias y servicios para maximizar su satisfacción como representante de agencias de envíos. 
+El diagrama de la user persona Ana Torres proporciona una visión completa y detallada de sus características, metas, motivaciones y desafíos. Esto permitirá una comprensión profunda de sus necesidades, ayudando a adaptar estrategias y servicios para maximizar su satisfacción como representante de agencias de envíos.<br> 
 [![Ana-Torres.png](https://i.postimg.cc/N0cLJL73/Ana-Torres.png)](https://postimg.cc/210z3ktG)
 
 ### 2.3.2. User Task Matrix
