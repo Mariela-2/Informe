@@ -183,16 +183,18 @@ El diagrama de la user persona Luis Gómez proporciona una visión clara y detal
 
 **Cuadro Task Matrix de ambos usuarios**
 
-| **User Task**                                         | **Transportista** - Frecuencia | **Transportista** - Importancia | **Productor Orgánico** - Frecuencia | **Productor Orgánico** - Importancia |
-|-------------------------------------------------------|-------------------------------|----------------------------------|--------------------------------------|--------------------------------------|
-| Creación de cuenta                                    | A veces                       | Alta                             | A veces                              | Alta                                 |
-| Interfaz práctica y sencilla de usar                  | Siempre                       | Alta                             | Siempre                              | Alta                                 |
-| Registrar salida de envío                             | Siempre                       | Alta                             | Nunca                                | Media                                |
-| Visualizar el estado ambiental del envío              | Seguido                       | Alta                             | Seguido                              | Alta                                 |
-| Recibir alertas por condiciones no óptimas            | Siempre                       | Muy Alta                         | Seguido                              | Muy Alta                             |
-| Consultar ETA (tiempo estimado de llegada)            | Siempre                       | Alta                             | A veces                              | Media                                |
-| Descargar historial de condiciones del transporte     | A veces                       | Media                            | Seguido                              | Alta                                 |
-| Compatible con dispositivos móviles y GPS del camión  | Siempre                       | Alta                             | A veces                              | Media                                |
+**Cuadro Task Matrix del usuario objetivo: Empresas transportistas de productos perecibles**
+
+| **User Task**                                         | **Frecuencia** | **Importancia** |
+|-------------------------------------------------------|----------------|-----------------|
+| Creación de cuenta                                    | A veces        | Alta            |
+| Interfaz práctica y sencilla de usar                  | Siempre        | Alta            |
+| Registrar salida de envío                             | Siempre        | Alta            |
+| Visualizar el estado ambiental del envío              | Seguido        | Alta            |
+| Recibir alertas por condiciones no óptimas            | Siempre        | Muy Alta        |
+| Consultar ETA (tiempo estimado de llegada)            | Siempre        | Alta            |
+| Descargar historial de condiciones del transporte     | A veces        | Media           |
+| Compatible con dispositivos móviles y GPS del camión  | Siempre        | Alta            |
 
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
