@@ -50,7 +50,7 @@
   <tr>
     <td rowspan="2">Perfil de marketing</td>
     <td>Mercado objetivo</td>
-    <td>Cooperativas agrícolas orgánicas, transportistas de productos orgánicos, certificadores.</td>
+    <td>Empresas transportistas de productos perecibles</td>
     <td>Grandes industrias: farmacéutica, agroalimentaria y logística.</td>
     <td>Agricultores medianos y pequeños.</td>
     <td>Empresas logísticas que requieren trazabilidad certificada.</td>
@@ -145,33 +145,25 @@ A fin de adaptarnos a distintos perfiles de usuarios, desde pequeños productore
 Nuestra solución no solo busca controlar el entorno físico del producto, sino también generar confianza en cada etapa del transporte. La posibilidad de contar con un historial detallado del recorrido, condiciones ambientales y tiempos estimados de llegada, permite a los productores demostrar el cumplimiento de estándares de calidad ante compradores y certificadoras, generando así un valor añadido al producto final.
 
 ## 2.2. Entrevistas
-En este punto se realizaron entrevistas con usuarios potenciales para conocer su contexto, necesidades y expectativas en relación con el transporte de productos orgánicos y la tecnología IoT aplicada al control de calidad durante el traslado.
+En este punto se realizaron entrevistas con representantes de empresas transportistas de productos perecibles para conocer su contexto, necesidades y expectativas en relación con el uso de tecnología IoT para el monitoreo de condiciones durante el traslado.
 ### 2.2.1. Diseño de entrevistas
 #### Introducción/Presentación
-Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) de la carrera de Ingeniería de Software. Junto con mi equipo estamos desarrollando AgroRoute, un sistema inteligente basado en IoT que permite supervisar, controlar y preservar la calidad de productos orgánicos durante su transporte interprovincial. Para ello, quisiéramos conocer su experiencia y situación actual relacionada con el transporte de productos orgánicos. Le agradeceríamos responder las siguientes preguntas.
+Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) de la carrera de Ingeniería de Software. Junto con mi equipo estamos desarrollando AgroRoute, un sistema inteligente basado en IoT que permite supervisar, controlar y preservar la calidad de productos perecibles durante su transporte interprovincial. Para ello, quisiéramos conocer su experiencia y situación actual relacionada con el transporte de este tipo de productos. Le agradeceríamos responder las siguientes preguntas.
 #### Preguntas Generales
 - ¿Cuál es su nombre completo?
 - ¿Cuál es su edad?
 - ¿En qué ciudad o región trabaja actualmente?
-
-#### Segmento Objetivo: Remitente
-- ¿Cuál es su ocupación actual y qué tipo de productos orgánicos cultiva o comercializa?
-- ¿Con qué frecuencia realiza envíos interprovinciales de sus productos? (escala del 0 al 10)
-- ¿Qué medio utiliza actualmente para realizar el seguimiento de estos envíos?
-- ¿Considera que la información que recibe durante el transporte es suficiente? ¿Por qué?
-- ¿Ha tenido experiencias negativas debido a malas condiciones de transporte (temperatura, humedad, etc.)?
-- ¿Le interesaría contar con una plataforma que le permita ver en tiempo real la ubicación, temperatura y humedad de sus productos?
-- ¿Utilizaría un servicio como AgroRoute para mejorar el control de calidad en sus envíos? ¿Por qué?
-- ¿Qué funcionalidades cree que deberían estar presentes en esta plataforma para que sea útil y eficiente?
+- ¿Para qué empresa trabaja y cuál es su cargo?
 
 #### Segmento Objetivo: Transportistas
-- ¿Actualmente trabaja transportando productos agrícolas u orgánicos? ¿Para qué empresa o de forma independiente?
-- ¿Con qué frecuencia realiza viajes interprovinciales de carga perecible?
-- ¿Cuenta con alguna herramienta que le permita monitorear las condiciones internas de su vehículo (temperatura, humedad, etc.)?
-- ¿Ha tenido dificultades con productos que llegaron en mal estado? ¿Cómo afecta eso su trabajo?
-- ¿Considera útil un sistema que le avise en tiempo real si hay algún cambio en las condiciones del ambiente dentro del camión?
-- ¿Estaría dispuesto a utilizar una aplicación móvil para recibir notificaciones y visualizar el estado del envío?
-- ¿Qué información le gustaría poder consultar desde una plataforma como AgroRoute?
+- ¿Cuáles son los principales productos perecibles que transporta su empresa?
+- ¿Con qué frecuencia realizan viajes interprovinciales?
+- ¿Qué tipo de herramientas utilizan actualmente para monitorear las condiciones del transporte (temperatura, humedad, etc.)?
+- ¿Han tenido experiencias negativas debido a condiciones ambientales inadecuadas durante el traslado? ¿Cómo afectó esto a sus operaciones?
+- ¿Considera útil un sistema que le brinde en tiempo real información como ubicación, temperatura y humedad del transporte? ¿Por qué?
+- ¿Estarían dispuestos a utilizar una plataforma móvil/web que emita alertas ante condiciones no óptimas durante el traslado?
+- ¿Qué funcionalidades considera esenciales en una plataforma de monitoreo para su empresa?
+- ¿Qué tipo de reportes o información histórica considera relevante al finalizar un envío?
 
 #### Finalización
 Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute.
@@ -184,8 +176,8 @@ Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición 
 
 #### Segmento Objetivo: Remitentes 
 
-El diagrama de la user persona Ana Torres proporciona una visión completa y detallada de sus características, metas, motivaciones y desafíos. Esto permitirá una comprensión profunda de sus necesidades, ayudando a adaptar estrategias y servicios para maximizar su satisfacción como representante de agencias de envíos.<br><br>  
-[![Ana-Torres.png](https://i.postimg.cc/N0cLJL73/Ana-Torres.png)](https://postimg.cc/210z3ktG)
+El diagrama de la user persona Luis Gómez proporciona una visión clara y detallada de sus características, metas, motivaciones y desafíos como gerente de operaciones logísticas. Esta representación permite una comprensión profunda de sus necesidades, facilitando la adaptación de estrategias y servicios de AgroRoute para maximizar su satisfacción como representante clave de empresas transportistas de productos perecibles.<br><br>  
+[![Luis-G-mez.png](https://i.postimg.cc/dVVFvtJL/Luis-G-mez.png)](https://postimg.cc/WhCCwVFv)
 
 ### 2.3.2. User Task Matrix
 
