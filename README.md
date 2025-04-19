@@ -125,48 +125,50 @@
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
-En un mercado cada vez más dinámico y competitivo, donde surgen nuevas start-ups tecnológicas que buscan abrirse paso en el sector logístico y agrícola, es fundamental contar con una planificación estratégica bien definida. La diferenciación no solo es deseable, sino esencial para lograr el posicionamiento y reconocimiento de nuestra propuesta. Por ello, el equipo de AgroRoute ha establecido un conjunto de estrategias orientadas a fortalecer nuestra presencia en el mercado y destacar frente a nuestros competidores.
+En un mercado cada vez más dinámico y competitivo, donde surgen nuevas startups tecnológicas que buscan abrirse paso en el sector logístico y agrícola, es fundamental contar con una planificación estratégica bien definida. La diferenciación no solo es deseable, sino esencial para lograr el posicionamiento y reconocimiento de nuestra propuesta. Por ello, el equipo de AgroRoute ha establecido un conjunto de estrategias orientadas a fortalecer nuestra presencia en el mercado y destacar frente a nuestros competidores.
 
 ### Estrategias elegidas por el equipo:
 
-- #### Enfoque especializado en productos orgánicos
-AgroRoute ha sido concebido desde sus inicios como una solución diseñada específicamente para el transporte de productos orgánicos. Esta especialización nos permite adaptar cada aspecto del sistema a las exigencias de este tipo de mercancía, garantizando condiciones óptimas durante todo el trayecto. Al enfocarnos en este nicho, marcamos una clara diferencia frente a plataformas genéricas de monitoreo logístico.
+#### 1. Especialización en el monitoreo de transporte de productos perecibles
+AgroRoute ha sido diseñado como una solución enfocada exclusivamente en el monitoreo de variables críticas —como temperatura, humedad y geolocalización— durante el transporte de productos perecibles. Esta especialización nos permite ofrecer datos precisos y alertas en tiempo real, adaptadas a los requerimientos del sector, diferenciándonos de soluciones genéricas de rastreo.
 
-- #### Fortalecimiento de relaciones estratégicas con cooperativas agrícolas
-Como parte de nuestra táctica de crecimiento, apostamos por establecer alianzas sólidas con cooperativas y asociaciones de productores orgánicos. Estas colaboraciones no solo nos permitirán validar nuestra propuesta en terreno real, sino también crear una red de usuarios fieles que aporten retroalimentación constante para la mejora del sistema.
+#### 2. Alianzas estratégicas con operadores logísticos y empresas transportistas
+Como parte de nuestra estrategia de expansión, buscamos establecer alianzas con flotas de transporte, operadores logísticos y asociaciones del sector para integrar AgroRoute en sus operaciones. Estas alianzas nos permiten entender mejor sus procesos, generar confianza en el uso del sistema y facilitar su adopción a través de modelos flexibles y soporte técnico especializado.
 
-- #### Mejora continua de la experiencia tecnológica
-Uno de los pilares fundamentales de AgroRoute es la innovación tecnológica. Para asegurar nuestra competitividad, hemos proyectado una evolución continua del sistema, incorporando mejoras tanto en el software como en los sensores IoT utilizados. El objetivo es mantenernos a la vanguardia mediante funcionalidades como la estimación precisa del tiempo de llegada (ETA), alertas inteligentes y visualización en tiempo real desde cualquier dispositivo.
+#### 3. Innovación continua en tecnología IoT aplicada al transporte
+Nuestro enfoque se basa en una evolución constante de la plataforma y los dispositivos IoT utilizados. La incorporación de funcionalidades como estimación precisa de tiempos de llegada (ETA), alertas automatizadas y visualización de condiciones ambientales desde cualquier dispositivo permite a nuestros clientes tomar decisiones informadas sin interrumpir sus operaciones.
 
-- #### Escalabilidad y flexibilidad de uso
-A fin de adaptarnos a distintos perfiles de usuarios, desde pequeños productores hasta grandes operadores logísticos, AgroRoute ofrece un sistema escalable y flexible. Esto permitirá a los clientes comenzar con una versión básica y añadir nuevas funciones conforme crezcan sus necesidades, sin necesidad de cambiar de plataforma.
+#### 4. Escalabilidad del sistema según el tamaño y necesidades del cliente
+AgroRoute ha sido concebido como una solución modular, adaptable a distintos niveles de operación. Desde pequeñas empresas con pocos vehículos hasta grandes operadores con flotas complejas, el sistema puede implementarse de manera gradual, permitiendo escalar funciones y volumen de monitoreo sin necesidad de migrar a otra plataforma.
 
-- #### Propuesta de valor centrada en la trazabilidad y confianza
-Nuestra solución no solo busca controlar el entorno físico del producto, sino también generar confianza en cada etapa del transporte. La posibilidad de contar con un historial detallado del recorrido, condiciones ambientales y tiempos estimados de llegada, permite a los productores demostrar el cumplimiento de estándares de calidad ante compradores y certificadoras, generando así un valor añadido al producto final.
+#### 5. Generación de confianza mediante trazabilidad y cumplimiento normativo
+Ofrecemos a las empresas transportistas una herramienta que no solo monitorea, sino que también documenta el cumplimiento de condiciones ideales durante todo el trayecto. Esto les permite demostrar estándares de calidad ante sus clientes, organismos reguladores y certificadoras, fortaleciendo su reputación y competitividad en el mercado.
 
 ## 2.2. Entrevistas
 En este punto se realizaron entrevistas con representantes de empresas transportistas de productos perecibles para conocer su contexto, necesidades y expectativas en relación con el uso de tecnología IoT para el monitoreo de condiciones durante el traslado.
 ### 2.2.1. Diseño de entrevistas
+
 #### Introducción/Presentación
-Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) de la carrera de Ingeniería de Software. Junto con mi equipo estamos desarrollando AgroRoute, un sistema inteligente basado en IoT que permite supervisar, controlar y preservar la calidad de productos perecibles durante su transporte interprovincial. Para ello, quisiéramos conocer su experiencia y situación actual relacionada con el transporte de este tipo de productos. Le agradeceríamos responder las siguientes preguntas.
+Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) de la carrera de Ingeniería de Software. Junto con mi equipo estamos desarrollando AgroRoute, un sistema inteligente basado en tecnología IoT que permite supervisar, controlar y preservar la calidad de productos perecibles durante su transporte interprovincial. Para ello, quisiéramos conocer su experiencia y situación actual relacionada con el transporte de este tipo de productos. Le agradeceríamos responder las siguientes preguntas.
+
 #### Preguntas Generales
-- ¿Cuál es su nombre completo?
-- ¿Cuál es su edad?
-- ¿En qué ciudad o región trabaja actualmente?
-- ¿Para qué empresa trabaja y cuál es su cargo?
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué ciudad o región trabaja actualmente?
+4. ¿Para qué empresa trabaja y cuál es su cargo?
 
 #### Segmento Objetivo: Transportistas
-- ¿Cuáles son los principales productos perecibles que transporta su empresa?
-- ¿Con qué frecuencia realizan viajes interprovinciales?
-- ¿Qué tipo de herramientas utilizan actualmente para monitorear las condiciones del transporte (temperatura, humedad, etc.)?
-- ¿Han tenido experiencias negativas debido a condiciones ambientales inadecuadas durante el traslado? ¿Cómo afectó esto a sus operaciones?
-- ¿Considera útil un sistema que le brinde en tiempo real información como ubicación, temperatura y humedad del transporte? ¿Por qué?
-- ¿Estarían dispuestos a utilizar una plataforma móvil/web que emita alertas ante condiciones no óptimas durante el traslado?
-- ¿Qué funcionalidades considera esenciales en una plataforma de monitoreo para su empresa?
-- ¿Qué tipo de reportes o información histórica considera relevante al finalizar un envío?
+5. ¿Cuáles son los principales productos perecibles que transporta su empresa?
+6. ¿Con qué frecuencia realizan viajes interprovinciales?
+7. ¿Qué tipo de herramientas utilizan actualmente para monitorear las condiciones del transporte (temperatura, humedad, ubicación, etc.)?
+8. ¿Han tenido experiencias negativas debido a condiciones ambientales inadecuadas durante el traslado? ¿Cómo afectó esto a sus operaciones?
+9. ¿Considera útil un sistema que le brinde en tiempo real información como ubicación, temperatura y humedad del transporte? ¿Por qué?
+10. ¿Estarían dispuestos a utilizar una plataforma móvil/web que emita alertas ante condiciones no óptimas durante el traslado?
+11. ¿Qué funcionalidades considera esenciales en una plataforma de monitoreo para su empresa?
+12. ¿Qué tipo de reportes o información histórica considera relevante al finalizar un envío?
 
 #### Finalización
-Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute.
+Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
