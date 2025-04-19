@@ -151,12 +151,14 @@ En este punto se realizaron entrevistas con representantes de empresas transport
 #### Introducción/Presentación
 Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) de la carrera de Ingeniería de Software. Junto con mi equipo estamos desarrollando AgroRoute, un sistema inteligente basado en tecnología IoT que permite supervisar, controlar y preservar la calidad de productos perecibles durante su transporte interprovincial. Para ello, quisiéramos conocer su experiencia y situación actual relacionada con el transporte de este tipo de productos. Le agradeceríamos responder las siguientes preguntas.
 
+---
+
 #### Preguntas Generales
 1. ¿Cuál es su nombre completo?
 2. ¿Cuál es su edad?
 3. ¿En qué ciudad o región trabaja actualmente?
 4. ¿Para qué empresa trabaja y cuál es su cargo?
-
+---
 #### Segmento Objetivo: Transportistas
 5. ¿Cuáles son los principales productos perecibles que transporta su empresa?
 6. ¿Con qué frecuencia realizan viajes interprovinciales?
@@ -166,7 +168,7 @@ Buenos días/tardes/noches, soy [Nombre], estudiante de la Universidad Peruana d
 10. ¿Estarían dispuestos a utilizar una plataforma móvil/web que emita alertas ante condiciones no óptimas durante el traslado?
 11. ¿Qué funcionalidades considera esenciales en una plataforma de monitoreo para su empresa?
 12. ¿Qué tipo de reportes o información histórica considera relevante al finalizar un envío?
-
+---
 #### Finalización
 Hasta aquí llegaron las preguntas. Muchas gracias por su tiempo y disposición para ayudarnos con esta entrevista. Sus respuestas serán fundamentales para mejorar la propuesta de AgroRoute
 
