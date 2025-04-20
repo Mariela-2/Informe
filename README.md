@@ -131,20 +131,11 @@ En un mercado cada vez más dinámico y competitivo, donde surgen nuevas startup
 
 ### Estrategias elegidas por el equipo:
 
-#### 1. Especialización en el monitoreo de transporte de productos perecibles
-AgroRoute ha sido diseñado como una solución enfocada exclusivamente en el monitoreo de variables críticas —como temperatura, humedad y geolocalización— durante el transporte de productos perecibles. Esta especialización nos permite ofrecer datos precisos y alertas en tiempo real, adaptadas a los requerimientos del sector, diferenciándonos de soluciones genéricas de rastreo.
+|                          | **Oportunidades**                                                                                                                                          | **Amenazas**                                                                                                                                                  |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Fortalezas**           | **FO – Estrategias (Fortalezas + Oportunidades)**<br>- Ofrecer servicios de valor añadido como ETA y alertas ambientales en tiempo real.<br>- Diversificar mercados hacia sectores regulados como alimentos y farmacéutico. | **FA – Estrategias (Fortalezas + Amenazas)**<br>- Evolucionar constantemente la plataforma en función del feedback del usuario.<br>- Generar alianzas con proveedores tecnológicos y operadores logísticos. |
+| **Debilidades**          | **DO – Estrategias (Debilidades + Oportunidades)**<br>- Fortalecer la marca mediante marketing digital y presencia sectorial.<br>- Capacitar al equipo interno para mejorar soporte y escalabilidad. | **DA – Estrategias (Debilidades + Amenazas)**<br>- Optimizar costos para ofrecer precios competitivos.<br>- Robustecer la infraestructura técnica para reducir dependencia del cliente. |
 
-#### 2. Alianzas estratégicas con operadores logísticos y empresas transportistas
-Como parte de nuestra estrategia de expansión, buscamos establecer alianzas con flotas de transporte, operadores logísticos y asociaciones del sector para integrar AgroRoute en sus operaciones. Estas alianzas nos permiten entender mejor sus procesos, generar confianza en el uso del sistema y facilitar su adopción a través de modelos flexibles y soporte técnico especializado.
-
-#### 3. Innovación continua en tecnología IoT aplicada al transporte
-Nuestro enfoque se basa en una evolución constante de la plataforma y los dispositivos IoT utilizados. La incorporación de funcionalidades como estimación precisa de tiempos de llegada (ETA), alertas automatizadas y visualización de condiciones ambientales desde cualquier dispositivo permite a nuestros clientes tomar decisiones informadas sin interrumpir sus operaciones.
-
-#### 4. Escalabilidad del sistema según el tamaño y necesidades del cliente
-AgroRoute ha sido concebido como una solución modular, adaptable a distintos niveles de operación. Desde pequeñas empresas con pocos vehículos hasta grandes operadores con flotas complejas, el sistema puede implementarse de manera gradual, permitiendo escalar funciones y volumen de monitoreo sin necesidad de migrar a otra plataforma.
-
-#### 5. Generación de confianza mediante trazabilidad y cumplimiento normativo
-Ofrecemos a las empresas transportistas una herramienta que no solo monitorea, sino que también documenta el cumplimiento de condiciones ideales durante todo el trayecto. Esto les permite demostrar estándares de calidad ante sus clientes, organismos reguladores y certificadoras, fortaleciendo su reputación y competitividad en el mercado.
 
 ## 2.2. Entrevistas
 En este punto se realizaron entrevistas con representantes de empresas transportistas de productos perecibles para conocer su contexto, necesidades y expectativas en relación con el uso de tecnología IoT para el monitoreo de condiciones durante el traslado.
