@@ -3,6 +3,8 @@
 
 ### 2.1.1. Análisis Competitivo 
 
+En esta sección, se realiza un análisis detallado de los principales competidores en el mercado que ofrecen servicios similares a los que pretende desarrollar AgroRoute. Este análisis nos permite identificar las fortalezas y debilidades de nuestros competidores, así como las oportunidades y amenazas que existen en el entorno competitivo. Al entender el panorama del mercado, podemos formular estrategias más efectivas para posicionar nuestro producto y superar los desafíos que se presenten.
+
 <table style="undefined;table-layout: fixed; width: 903px">
 <colgroup>
 <col style="width: 72.2px">
